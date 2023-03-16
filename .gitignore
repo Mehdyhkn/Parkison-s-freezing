@@ -3,7 +3,7 @@
 *.tsv
 *.RData
 *.Rhistory
-*.pdf
+
 data
 #Source data
 *.csv
